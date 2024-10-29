@@ -1,8 +1,14 @@
 {
+  "[11.0.0,)": [
+    {
+      "tool": "java",
+      "versionRange": "[17,)"
+    }
+  ],
   "[10.1,11.0.0)": [
     {
       "tool": "java",
-      "versionRange": "[11,22)"
+      "versionRange": "[11,)"
     }
   ],
   "[10.0,10.1)": [

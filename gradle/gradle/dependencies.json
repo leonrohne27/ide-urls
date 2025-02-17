@@ -1,0 +1,98 @@
+{
+  "(,4.3)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,9)"
+    }
+  ],
+  "[4.3,4.7)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,10)"
+    }
+  ],
+  "[4.7,5.0)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,11)"
+    }
+  ],
+  "[5.0,5.4)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,12)"
+    }
+  ],
+  "[5.4,6.0)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,13)"
+    }
+  ],
+  "[6.0,6.3)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,14)"
+    }
+  ],
+  "[6.3,6.7)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,15)"
+    }
+  ],
+  "[6.7,7.0)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,16)"
+    }
+  ],
+  "[7.0,7.3)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,17)"
+    }
+  ],
+  "[7.3,7.5)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,18)"
+    }
+  ],
+  "[7.5,7.6)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,19)"
+    }
+  ],
+  "[7.6,8.3)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,20)"
+    }
+  ],
+  "[8.3,8.5)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,21)"
+    }
+  ],
+  "[8.5,8.8)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,22)"
+    }
+  ],
+  "[8.8,8.10)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,23)"
+    }
+  ],
+  "[8.10,)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,24)"
+    }
+  ]
+}

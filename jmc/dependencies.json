@@ -1,0 +1,26 @@
+{
+  "(,8.2)": [
+    {
+      "tool": "java",
+      "versionRange": "[8,)"
+    }
+  ],
+  "[8.2,9.0.0)": [
+    {
+      "tool": "java",
+      "versionRange": "[11,)"
+    }
+  ],
+  "[9.0.0,9.1.0)": [
+    {
+      "tool": "java",
+      "versionRange": "[17,)"
+    }
+  ],
+  "[9.1.0,)": [
+    {
+      "tool": "java",
+      "versionRange": "[21,)"
+    }
+  ]
+}

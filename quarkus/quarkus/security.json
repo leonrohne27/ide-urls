@@ -1,0 +1,67 @@
+{
+  "issues" : [ {
+    "id" : "CVE-2022-2466",
+    "severity" : 9.8,
+    "versions" : [ "[2.10.0,2.10.4)" ]
+  }, {
+    "id" : "CVE-2022-4116",
+    "severity" : 9.8,
+    "versions" : [ "(,2.13.5)" ]
+  }, {
+    "id" : "CVE-2023-6267",
+    "severity" : 9.8,
+    "versions" : [ "(,2.13.9)" ]
+  }, {
+    "id" : "CVE-2023-6394",
+    "severity" : 9.1,
+    "versions" : [ "(,3.6.0)" ]
+  }, {
+    "id" : "CVE-2024-12225",
+    "severity" : 9.1,
+    "versions" : [ "(,3.15.3.1)" ]
+  }, {
+    "id" : "CVE-2023-4853",
+    "severity" : 8.1,
+    "versions" : [ "(,2.16.11)" ]
+  }, {
+    "id" : "CVE-2022-4147",
+    "severity" : 7.5,
+    "versions" : [ "[2.0,2.13.5)" ]
+  }, {
+    "id" : "CVE-2022-42003",
+    "severity" : 7.5,
+    "versions" : [ "(,2.13.3)" ]
+  }, {
+    "id" : "CVE-2022-42004",
+    "severity" : 7.5,
+    "versions" : [ "(,2.13.0)" ]
+  }, {
+    "id" : "CVE-2023-1584",
+    "severity" : 7.5,
+    "versions" : [ "(,2.13.8)" ]
+  }, {
+    "id" : "CVE-2023-0044",
+    "severity" : 6.1,
+    "versions" : [ "(,2.13.7)" ]
+  }, {
+    "id" : "CVE-2023-0481",
+    "severity" : 3.3,
+    "versions" : [ "(,2.16.1)" ]
+  }, {
+    "id" : "CVE-2022-21724",
+    "severity" : 9.8,
+    "versions" : [ "(,2.7.2)" ]
+  }, {
+    "id" : "CVE-2022-0981",
+    "severity" : 8.8,
+    "versions" : [ "(,2.7.1)" ]
+  }, {
+    "id" : "CVE-2022-21363",
+    "severity" : 6.6,
+    "versions" : [ "(,2.7.0)" ]
+  }, {
+    "id" : "CVE-2023-5720",
+    "severity" : 7.5,
+    "versions" : [ "[3.0.1,3.2.8)" ]
+  } ]
+}

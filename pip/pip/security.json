@@ -1,0 +1,19 @@
+{
+  "issues" : [ {
+    "id" : "CVE-2018-20225",
+    "severity" : 7.8,
+    "versions" : [ "[*,*]" ]
+  }, {
+    "id" : "CVE-2019-20916",
+    "severity" : 7.5,
+    "versions" : [ "(,19.2)" ]
+  }, {
+    "id" : "CVE-2021-3572",
+    "severity" : 5.7,
+    "versions" : [ "(,21.1)" ]
+  }, {
+    "id" : "CVE-2023-5752",
+    "severity" : 3.3,
+    "versions" : [ "(,23.3)" ]
+  } ]
+}

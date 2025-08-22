@@ -20,6 +20,14 @@
     "severity" : 6.5,
     "versions" : [ "[v2.0.0,v2.12.2)" ]
   }, {
+    "id" : "CVE-2025-55198",
+    "severity" : 6.5,
+    "versions" : [ "(,v3.18.5)" ]
+  }, {
+    "id" : "CVE-2025-55199",
+    "severity" : 6.5,
+    "versions" : [ "(,v3.18.5)" ]
+  }, {
     "id" : "CVE-2024-25620",
     "severity" : 6.4,
     "versions" : [ "(,v3.14.1)" ]
